@@ -1,0 +1,2 @@
+# EventApp
+EventApp pentru interviu
